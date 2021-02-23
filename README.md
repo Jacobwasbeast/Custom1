@@ -18,4 +18,4 @@ R = Nether STAR<br>
 "W R W"<br>
 "X W X"<br>
 ----------------------------------------------<br>
-<h3> 1.Animegirls that can be customized with (/setskin  "url" (hd includded) ) (/setname "name")</h3<
+<h3> 2.Animegirls that can be customized with (/setskin  "url" (hd includded) ) (/setname "name")</h3<
