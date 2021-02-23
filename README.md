@@ -1,5 +1,6 @@
 <h1> Custom1 </h1>
 <br> VERSION: 21W07A
+<br> FOR HD AND NORMAL SKINS TO WORK USE JAVA 9 AND HIGHER
 <br>
 <h2> This mods contains a bunch of random stuff but mainly here is a breif descirption. </h2>
 <br>
